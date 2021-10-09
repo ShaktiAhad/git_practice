@@ -1,8 +1,7 @@
 ## I wasn’t able to send email using Gmail username/password. I made following changes to make it work.
 
 ## Create password for external [*Check the ScreenShot*]
-Got to [Google Account Security](https://myaccount.google.com/security) and Scroll down to **"Signing in to Google"** option. If you don't have 2 step verification on; enable it. Then you will see **"App passwords"** option. Generate a password for your lambda function. 
-\***Make sure to copy it else you will not be able to copy the password later.*** 
+Got to [Google Account Security](https://myaccount.google.com/security) and Scroll down to **"Signing in to Google"** option. If you don't have 2 step verification on; enable it. Then you will see **"App passwords"** option. Generate a password for your lambda function.\***Make sure to copy it else you will not be able to copy the password later.*** 
 
 [1]: App_Password_1.png "App_Password_1"
 [2]: App_Password_2.png "App_Password_2"

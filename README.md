@@ -2,8 +2,9 @@
 
 ## Create password for external [*Check the ScreenShot*]
 Got to [Google Account Security](https://myaccount.google.com/security) and Scroll down to **"Signing in to Google"** option. If you don't have 2 step verification on; enable it. Then you will see **"App passwords"** option. Generate a password for your lambda function. 
-* ***Make sure to <span style="color: red;">Password</span> else you will not be able to copy it later.*** 
+* ***Make sure to copy the Password else you will not be able to copy it later.*** 
 
+![alt][id]
 [1]: App_Password_1.png "App_Password_1"
 [2]: App_Password_2.png "App_Password_2"
 [3]: App_Password_3.png "App_Password_3"

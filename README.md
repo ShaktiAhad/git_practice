@@ -5,7 +5,7 @@ Got to [Google Account Security](https://myaccount.google.com/security) and Scro
 * ***Make sure to copy the Password else you will not be able to copy it later.*** 
 
 ## Sample lambda function in python to check SMTP server
-I have used a this following code to verify my SMTP server is working. 
+I have used following code to verify my SMTP server is working. 
 ```
 import smtplib, os
 
